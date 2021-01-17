@@ -43,7 +43,7 @@ $result = check($computer, $human);
 <!DOCTYPE html>
 <html>
 <head>
-<title>Zain Tariq, Paper, Scissors Game</title>
+<title>Rock, Paper, Scissors Game</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
